@@ -58,7 +58,7 @@ for current_proxy in proxies:
 
     try:
         headers = CaseInsensitiveDict()
-        headers["authority"] = "guns.lol"
+        headers["authority"] = "aknem.kyle"
         headers["accept"] = "*/*"
         headers["accept-language"] = "?0; Mobile"
         headers["cookie"] = "cf_clearance=PxQ43WBVlE73LEN3qiKC2gTauYIEhoSBh7cq.1lRoR8-1706625953-1-AfDAoZUap6+aQbhw/oJI0UGtVeGxnYfLaa3+jQMQM/Ll6nvJW4EViEuS/NXOogatEiFnNNY4Op+V5HgJwWJYBts=; _ga=GA1.1.787883208.1706625953; _ga_HVFV509737=GS1.1.1706625953.1.0.1706625953.0.0.0; _1__bProxy_v=defdb2f2cb4c2bacfea711befc12e794a5cea5742837e8fcc3369539c1da96ee"
